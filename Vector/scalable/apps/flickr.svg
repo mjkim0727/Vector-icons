@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="git.svg"
+   sodipodi:docname="flickr.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      showgrid="false"
      units="px"
      height="48px"
-     inkscape:zoom="8.7173008"
-     inkscape:cx="26.843171"
-     inkscape:cy="34.701108"
+     inkscape:zoom="5.656854"
+     inkscape:cx="54.447225"
+     inkscape:cy="69.561633"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
@@ -38,32 +38,21 @@
   <defs
      id="defs2" />
   <circle
-     style="opacity:1;fill:#f1502f;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
-     id="path1080"
+     style="fill:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     id="path851"
      cx="8.4666662"
      cy="8.4666662"
      r="7.4083333" />
-  <path
-     id="rect1161"
-     style="fill:#ffffff;stroke-width:4.62864;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;opacity:0.4"
-     d="M 20.085938 6.671875 A 28 28 0 0 0 18.220703 7.6347656 L 28 17.414062 L 28 45 L 30 45 L 30 19.414062 L 42.648438 32.0625 L 44.0625 30.648438 L 20.085938 6.671875 z "
-     transform="scale(0.26458333)" />
   <circle
-     style="fill:#ffffff;stroke-width:2.38125;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#fa4779;stroke-width:1.70088;stroke-linejoin:round"
      id="path849"
-     cx="7.6729169"
-     cy="4.4979167"
-     r="1.3229166" />
-  <circle
-     style="fill:#ffffff;stroke-width:2.38125;stroke-linecap:round;stroke-linejoin:round"
-     id="path953"
-     cx="7.6729169"
-     cy="11.906249"
-     r="1.3229166" />
-  <circle
-     style="fill:#ffffff;stroke-width:2.38125;stroke-linecap:round;stroke-linejoin:round"
-     id="path1057"
-     cx="11.377081"
+     cx="11.377083"
      cy="8.2020836"
-     r="1.3229166" />
+     r="2.3812499" />
+  <circle
+     style="fill:#0062dd;fill-opacity:1;stroke-width:1.54255;stroke-linejoin:round"
+     id="path953"
+     cx="5.5562496"
+     cy="8.2020836"
+     r="2.3812499" />
 </svg>
