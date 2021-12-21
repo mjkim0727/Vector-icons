@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="user-status-pending-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.78125"
+     inkscape:cx="11.733333"
+     inkscape:cy="12.353939"
+     inkscape:window-width="1853"
+     inkscape:window-height="1012"
+     inkscape:window-x="67"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     id="path2"
+     style="opacity:.35;fill:#dfdfdf"
+     d="M 8 2 C 6.34 2 5 3.34 5 5 C 5 5.3511534 5.0642294 5.6861432 5.1757812 6 L 6.2675781 6 A 2 2 0 0 1 6 5 A 2 2 0 0 1 8 3 A 2 2 0 0 1 10 5 A 2 2 0 0 1 9.7324219 6 L 10.824219 6 C 10.935771 5.6861432 11 5.3511534 11 5 C 11 3.34 9.66 2 8 2 z M 3.8378906 11 C 2.0022068 12.184772 2 14 2 14 L 2 15 L 14 15 L 14 14 C 14 14 13.997317 12.18477 12.167969 11 L 8 11 C 10.78 11 11.889219 11.849609 12.449219 12.599609 C 13.009219 13.339609 13 14 13 14 L 3 14 C 3 14 2.9907813 13.339609 3.5507812 12.599609 C 4.1107813 11.849609 5.22 11 8 11 L 3.8378906 11 z " />
+  <path
+     id="path847"
+     style="fill:#dfdfdf;stroke-width:0.99288;fill-opacity:1"
+     d="M 2.5 7 A 1.5 1.5 0 0 0 1 8.5 A 1.5 1.5 0 0 0 2.5 10 A 1.5 1.5 0 0 0 4 8.5 A 1.5 1.5 0 0 0 2.5 7 z M 8 7 A 1.5 1.5 0 0 0 6.5 8.5 A 1.5 1.5 0 0 0 8 10 A 1.5 1.5 0 0 0 9.5 8.5 A 1.5 1.5 0 0 0 8 7 z M 13.5 7 A 1.5 1.5 0 0 0 12 8.5 A 1.5 1.5 0 0 0 13.5 10 A 1.5 1.5 0 0 0 15 8.5 A 1.5 1.5 0 0 0 13.5 7 z " />
+</svg>
