@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   xml:space="preserve"
+   sodipodi:docname="libreoffice-writer.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs14">
+	
+	
+	
+</defs><sodipodi:namedview
+   id="namedview12"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="9.3522727"
+   inkscape:cx="13.258809"
+   inkscape:cy="42.503038"
+   inkscape:window-width="1920"
+   inkscape:window-height="1016"
+   inkscape:window-x="0"
+   inkscape:window-y="34"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"
+   showguides="false" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#0DC54C;}
+	.st1{fill:#08962D;}
+	.st2{fill:#FDFFFF;}
+</style>
+<circle
+   style="opacity:0.2;stroke-width:0.999999"
+   cx="32"
+   cy="33"
+   r="28"
+   id="circle2" /><path
+   id="path866"
+   style="fill:#3771c8;fill-opacity:1;stroke-width:0.873441"
+   d="M 60.000007,32 A 27.999999,27.999999 0 0 1 32.000003,59.999999 27.999999,27.999999 0 0 1 4.0000039,32 27.999999,27.999999 0 0 1 32.000003,4 27.999999,27.999999 0 0 1 60.000007,32 Z" /><path
+   style="opacity:0.2;fill:#ffffff;stroke-width:0.999999"
+   d="M 32.000003,4 A 28,28 0 0 0 4.0000029,32 28,28 0 0 0 4.0175829,32.492188 28,28 0 0 1 32.000003,4.9999999 28,28 0 0 1 59.974612,32.492188 28,28 0 0 0 60.000002,32 28,28 0 0 0 32.000003,4 Z"
+   id="path18" />
+<path
+   id="path866-3"
+   style="opacity:0.2;fill:#ffffff;stroke-width:0.873441"
+   d="M 32.000004,4.0000004 A 28,28 0 0 0 4.0000039,32 28,28 0 0 0 4.0195339,32.500001 28,28 0 0 1 32.000004,5.0000003 28,28 0 0 1 59.990237,32.269531 28,28 0 0 0 60.000003,32 28,28 0 0 0 32.000004,4.0000004 Z" /><path
+   id="rect902"
+   style="fill:#ecf3ff;stroke-width:1.33426;fill-opacity:1"
+   d="M 20.513672,13 C 19.120837,13 18,14.120837 18,15.513672 V 48.986328 C 18,50.379163 19.120837,51.5 20.513672,51.5 H 43.486328 C 44.879163,51.5 46,50.379163 46,48.986328 V 22.625 L 36.375,13 Z"
+   sodipodi:nodetypes="ssssssccs" /><path
+   id="rect1228"
+   style="fill:#b7bec8"
+   d="M 36.375,13 46,22.625 h -9.625 z"
+   sodipodi:nodetypes="cccc" /><path
+   id="rect850"
+   style="fill:#80b3ff"
+   d="m 24.125,27.875 v 2.1875 h 15.75 V 27.875 Z m 0,5.25 v 2.1875 h 15.75 V 33.125 Z m 0,5.25 v 2.1875 H 35.5 V 38.375 Z" /></svg>
