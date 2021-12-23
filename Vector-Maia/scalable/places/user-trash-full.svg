@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="user-trash-full.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="4"
+     inkscape:cx="-6"
+     inkscape:cy="28.875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect1139"
+     style="fill:#666666;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="m 6.3500002,1.0583334 c -0.5863167,0 -1.0583334,0.4720166 -1.0583334,1.0583333 V 4.7625001 H 6.3500002 V 2.1166667 h 4.2333338 v 2.6458334 h 1.058333 V 2.1166667 c 0,-0.5863167 -0.472016,-1.0583333 -1.058333,-1.0583333 z" />
+  <path
+     id="rect1139-7"
+     style="opacity:0.2;fill:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="m 6.3500002,1.0583334 c -0.5863167,0 -1.0583334,0.4720166 -1.0583334,1.0583333 v 0.2645834 c 0,-0.5863167 0.4720167,-1.0583334 1.0583334,-1.0583334 h 4.2333338 c 0.586317,0 1.058333,0.4720167 1.058333,1.0583334 V 2.1166667 c 0,-0.5863167 -0.472016,-1.0583333 -1.058333,-1.0583333 z" />
+  <path
+     id="rect909"
+     style="fill:#a7a7a7;fill-opacity:1;stroke-width:0.504961;stroke-linecap:round;stroke-linejoin:round"
+     d="m 13.49375,4.2333336 c 0.460222,1.5735473 0.53338,3.0450975 0.529167,4.7624998 2.85e-4,1.8170556 -0.220874,3.6881686 -0.529167,5.2916666 0.01277,0.846236 -0.708025,1.5875 -1.5875,1.5875 H 5.0270836 C 4.1476085,15.875 3.4395833,15.166975 3.4395833,14.2875 3.0573786,12.237177 2.9065682,10.744512 2.9104166,8.9958334 2.8978441,7.312414 3.0115302,5.7298184 3.4395833,4.2333336 Z"
+     sodipodi:nodetypes="cccsscccc" />
+  <rect
+     style="fill:#838383;fill-opacity:1;stroke-width:0.530849;stroke-linecap:round;stroke-linejoin:round"
+     id="rect1035"
+     width="12.170834"
+     height="1.5875"
+     x="2.3812499"
+     y="2.9104166" />
+  <path
+     id="rect1840"
+     style="fill:#666666;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 20,22 C 18.414051,27.020586 17.982865,31.598627 18,36.999999 18.02775,42.68065 18.147702,48.781022 20,54 h 4 C 21.243355,41.568857 21.561444,34.576887 24,22 Z m 10,0 v 32 h 4 V 22 Z m 10,0 c 2.612889,13.545268 2.662984,17.082527 0,32 h 4 C 45.537028,47.608968 46.047445,42.819254 46,36.999999 46.086019,31.147704 45.488932,26.637939 44,22 Z"
+     transform="scale(0.26458334)"
+     sodipodi:nodetypes="ccccccccccccccccc" />
+  <rect
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:0.374178;stroke-linecap:round;stroke-linejoin:round"
+     id="rect2674"
+     width="12.170835"
+     height="0.26458335"
+     x="2.3812501"
+     y="2.9104168" />
+  <path
+     id="rect909-3"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.50496;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3.4395834,14.022917 V 14.2875 c 0,0.879475 0.708025,1.5875 1.5875001,1.5875 H 11.90625 c 0.879475,0 1.5875,-0.708025 1.5875,-1.5875 v -0.264583 c 0,0.879475 -0.708025,1.5875 -1.5875,1.5875 H 5.0270835 c -0.8794751,0 -1.5875001,-0.708025 -1.5875001,-1.5875 z" />
+  <rect
+     style="opacity:0.2;fill:#1a1a1a;fill-opacity:1;stroke-width:0.372731;stroke-linecap:round;stroke-linejoin:round"
+     id="rect2913"
+     width="10.054167"
+     height="0.26458335"
+     x="3.4395833"
+     y="4.4979167" />
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="youtube.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     height="48px"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="18.250001"
+     inkscape:cy="41.437502"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2" />
+  <circle
+     style="fill:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6.35, 0.529167"
+     id="path851"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="7.4083333" />
+  <path
+     style="fill:#ff0000;stroke-width:0.0828182"
+     inkscape:connector-curvature="0"
+     id="path7"
+     d="M 13.286663,6.1285647 C 13.170718,5.6979105 12.831164,5.3583558 12.400509,5.2424104 11.613736,5.0270832 8.466646,5.0270832 8.466646,5.0270832 c 0,0 -3.1470904,0 -3.933863,0.2070453 C 4.1104104,5.3500742 3.762574,5.6979105 3.6466286,6.1285647 3.4395833,6.9153374 3.4395833,8.5468553 3.4395833,8.5468553 c 0,0 0,1.6397997 0.2070453,2.4182907 0.1159457,0.430654 0.4555,0.770209 0.8861544,0.886154 0.7950545,0.215328 3.933863,0.215328 3.933863,0.215328 0,0 3.14709,0 3.933863,-0.207046 0.430655,-0.115946 0.770209,-0.4555 0.886154,-0.886154 0.207046,-0.786773 0.207046,-2.418291 0.207046,-2.418291 0,0 0.0082,-1.6397996 -0.207046,-2.4265723 z"
+     class="st0" />
+  <polygon
+     style="fill:#ffffff"
+     id="polygon9"
+     points="80.2,42.5 48.6,24.3 48.6,60.7 "
+     class="st1"
+     transform="matrix(0.08281817,0,0,0.08281817,3.4395833,5.0270832)" />
+</svg>

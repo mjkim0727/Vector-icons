@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="battery-missing-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="44.1875"
+     inkscape:cx="7.9886846"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 6,1 V 2 H 4 v 12 c 0,0.552285 0.4477153,1 1,1 h 6 c 0.552285,0 1,-0.447715 1,-1 V 2 H 10 V 1 Z m 2,4 c 2.666666,0 2.666666,4 0,4 v 1 H 7 V 8 H 8 C 8.8909668,8 9.3370032,6.9228614 8.7070709,6.2929291 8.0771386,5.6629968 7,6.1090332 7,7 H 6 C 6,5.8954305 6.8954305,5 8,5 Z m -1,6 h 1 v 1 H 7 Z"
+     class="warning"
+     fill="#f57900"
+     id="path2"
+     sodipodi:nodetypes="cccssssccccsccccssccsccccc" />
+</svg>

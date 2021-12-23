@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-new-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.78125"
+     inkscape:cx="4.9842424"
+     inkscape:cy="14.409697"
+     inkscape:window-width="1853"
+     inkscape:window-height="1012"
+     inkscape:window-x="67"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     id="path2"
+     style="fill:#444444"
+     d="M 2,2 C 2,2 1,2 1,3 v 11 c 0,0 0,1 1,1 h 12 c 0,0 1,0 1,-1 V 5 C 15,4 14,4 14,4 H 9 L 7,2 Z m 0.582,4.156 h 11 v 7.5 h -11 z M 7.25,7.5 V 9.25 H 5.5 v 1.5 h 1.75 v 1.75 h 1.5 V 10.75 H 10.5 V 9.25 H 8.75 V 7.5 Z"
+     sodipodi:nodetypes="cscscsscccccccccccccccccccccc" />
+</svg>

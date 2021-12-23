@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="youtube-music.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="1"
+     inkscape:cx="-28"
+     inkscape:cy="72.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <circle
+     style="fill:#ff0000;fill-opacity:1;stroke-width:3.03068;stroke-linecap:round;stroke-linejoin:round"
+     id="path849"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="7.4083333" />
+  <path
+     id="rect1220"
+     style="fill:#ffffff;stroke-width:2.23645;stroke-linecap:round;stroke-linejoin:round"
+     d="M 6.6145832,6.0854163 10.847917,8.4666665 6.6145832,10.847917 Z"
+     sodipodi:nodetypes="cccc" />
+  <path
+     id="path852"
+     style="fill:#ffffff;stroke-width:12.4615;stroke-linecap:round;stroke-linejoin:round"
+     d="M 32 14 C 22.058873 14 13.999999 22.058873 14 32 C 14.000003 41.941125 22.058876 50 32 50 C 41.941121 49.999996 49.999996 41.941121 50 32 C 50 22.058875 41.941125 14.000003 32 14 z M 32 16 C 40.836558 16.000002 48 23.163444 48 32 C 48 40.836554 40.836554 48 32 48 C 23.163444 48 16.000002 40.836558 16 32 C 16 23.163442 23.163442 15.999999 32 16 z "
+     transform="scale(0.26458333)" />
+</svg>

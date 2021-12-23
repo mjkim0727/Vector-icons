@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="bluetooth.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="16px"
+     inkscape:zoom="11.313709"
+     inkscape:cx="9.9878833"
+     inkscape:cy="12.551145"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="레이어 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect4475"
+       style="fill:#dfdfdf;stroke-width:0.209042"
+       d="m 1.7623892,0.26458333 c 0,0.46937051 0,0.93874107 0,1.40811167 L 1.2422209,1.1525268 1.0583333,1.3364144 1.8385856,2.1166666 1.0583333,2.896919 1.2422209,3.0808065 1.7623892,2.5606384 V 3.9687501 L 2.9104165,2.8207225 2.2063609,2.1166666 2.9104165,1.4126109 Z m 0.260084,0.6278593 0.5201683,0.52016827 -0.5201683,0.5201682 z m 0,1.40811157 0.5201683,0.5201683 -0.5201683,0.5201681 z"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+</svg>

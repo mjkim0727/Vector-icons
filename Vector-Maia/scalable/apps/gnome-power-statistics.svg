@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="org.gnome.PowerStats.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="7.7669884"
+     inkscape:cx="8.240002"
+     inkscape:cy="24.269381"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2" />
+  <circle
+     style="fill:#e3e3e3;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     id="path1308"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="7.4083333" />
+  <path
+     id="rect1408"
+     style="opacity:1;fill:#d54e43;fill-opacity:1;stroke-width:0.541187"
+     d="M 56.044922 17.654297 L 44.5 34.5 L 34 26.5 L 27 37.5 L 16 32 L 7.5722656 45.660156 A 28 28 0 0 0 8.9296875 47.859375 L 17 35 L 27.5 40.5 L 34.5 29.5 L 45 38 L 57.304688 20.017578 A 28 28 0 0 0 56.044922 17.654297 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="rect1408-6"
+     style="opacity:1;fill:#43abd5;fill-opacity:1;stroke-width:0.541187"
+     d="M 59.982422 32.486328 L 45 45 L 34.5 41.5 L 28 49.5 L 16.5 44.5 L 9.7832031 49.017578 A 28 28 0 0 0 10.958984 50.445312 L 16 47 L 28.25 52.5 L 35 44.5 L 45.5 48 L 59.712891 35.939453 A 28 28 0 0 0 59.982422 32.486328 z "
+     transform="scale(0.26458333)" />
+</svg>

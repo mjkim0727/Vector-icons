@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   enable-background="new"
+   version="1.0"
+   id="svg28"
+   sodipodi:docname="preferences-desktop-font.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8"
+     inkscape:cx="67.25"
+     inkscape:cy="45.9375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs8">
+    <filter
+       id="b"
+       x="-0.032928571"
+       y="-0.032928571"
+       width="1.0658571"
+       height="1.0658571"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="4.48"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       id="a"
+       x="-0.024"
+       y="-0.024"
+       width="1.048"
+       height="1.048"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="4.48"
+         id="feGaussianBlur5" />
+    </filter>
+  </defs>
+  <circle
+     style="fill:#808080;fill-opacity:1;stroke-width:1.41633;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:16.996, 1.41633"
+     id="path848"
+     cx="32"
+     cy="32"
+     r="28" />
+  <path
+     id="path4863"
+     style="font-size:35.3982px;line-height:1.25;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';stroke-width:0.884955;fill:#ffffff"
+     d="M 21.59375 18 L 12 43.345703 L 15.292969 43.345703 L 17.839844 36.371094 L 28.779297 36.371094 L 31.328125 43.345703 L 34.619141 43.345703 L 24.990234 18 L 21.59375 18 z M 23.220703 21.681641 L 23.363281 21.681641 L 24.388672 24.40625 L 27.751953 33.539062 L 18.867188 33.539062 L 22.230469 24.40625 L 23.220703 21.681641 z M 44.105469 24.726562 C 42.595145 24.726562 41.21558 25.032916 39.964844 25.646484 C 38.737706 26.260053 37.770464 27.109767 37.0625 28.195312 L 39.328125 29.894531 C 39.8237 29.115771 40.496146 28.512669 41.345703 28.087891 C 42.19526 27.639513 43.125876 27.416016 44.140625 27.416016 C 45.580152 27.416016 46.772845 27.828339 47.716797 28.654297 C 48.660749 29.456656 49.132812 30.531821 49.132812 31.876953 L 49.132812 32.972656 C 48.637238 32.665872 47.916608 32.396144 46.972656 32.160156 C 46.052303 31.924168 45.050388 31.804688 43.964844 31.804688 C 41.770155 31.804688 39.953199 32.348049 38.513672 33.433594 C 37.074145 34.49554 36.353516 35.983028 36.353516 37.894531 C 36.353516 39.050873 36.636754 40.089413 37.203125 41.009766 C 37.769496 41.90652 38.572981 42.613639 39.611328 43.132812 C 40.649675 43.651986 41.828858 43.912109 43.150391 43.912109 C 44.448325 43.912109 45.61595 43.603803 46.654297 42.990234 C 47.692644 42.376665 48.47106 41.634874 48.990234 40.761719 L 49.132812 40.761719 L 49.132812 43.345703 L 52 43.345703 L 52 31.912109 C 52 29.693822 51.292881 27.94621 49.876953 26.671875 C 48.484624 25.373941 46.559744 24.726562 44.105469 24.726562 z M 44.423828 34.248047 C 45.344181 34.248047 46.218964 34.365575 47.044922 34.601562 C 47.87088 34.837551 48.566442 35.143904 49.132812 35.521484 C 49.132813 36.559832 48.872689 37.515516 48.353516 38.388672 C 47.834342 39.261827 47.138781 39.959342 46.265625 40.478516 C 45.39247 40.99769 44.448342 41.255859 43.433594 41.255859 C 42.277252 41.255859 41.321568 40.949506 40.566406 40.335938 C 39.811244 39.722368 39.433594 38.920837 39.433594 37.929688 C 39.433594 36.844143 39.845917 35.957803 40.671875 35.273438 C 41.521432 34.589072 42.771912 34.248047 44.423828 34.248047 z " />
+</svg>

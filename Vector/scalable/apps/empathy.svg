@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="empathy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="12.328125"
+     inkscape:cx="31.918885"
+     inkscape:cy="25.470215"
+     inkscape:window-width="1469"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <circle
+     style="fill:#e3f2fd;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="path1039"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="7.4083333" />
+  <path
+     style="opacity:0.2;stroke-width:0.264583"
+     d="M 3.9091994,5.5562508 A 0.46873045,0.41362978 0 0 0 3.5030224,6.176368 l 0.9952882,1.5213542 v 2.7140458 c 0,0.827743 0.6744573,1.494484 1.5120525,1.494484 h 4.9133949 c 0.837595,0 1.512052,-0.666741 1.512052,-1.494484 V 7.0507334 c 0,-0.8277415 -0.674457,-1.4944826 -1.512052,-1.4944826 H 8.1580358 6.0331009 6.0103626 Z"
+     id="path6" />
+  <path
+     id="rect8"
+     style="fill:#64b5f6;fill-opacity:1;stroke-width:0.999999"
+     d="M 14.775391 20 A 1.7715796 1.5633251 0 0 0 13.238281 22.345703 L 17.001953 28.091797 L 17.001953 38.353516 C 17.001953 41.481955 19.551241 44 22.716797 44 L 41.287109 44 C 44.452664 44 47.001953 41.481955 47.001953 38.353516 L 47.001953 25.646484 C 47.001953 22.518046 44.452664 20 41.287109 20 L 30.832031 20 L 22.802734 20 L 22.716797 20 L 14.775391 20 z "
+     transform="scale(0.26458334)" />
+</svg>

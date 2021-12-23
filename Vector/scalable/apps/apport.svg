@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="apport.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="8"
+     inkscape:cx="19.375"
+     inkscape:cy="32.6875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7431">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7427" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop7429" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7431"
+       id="linearGradient7433"
+       x1="26"
+       y1="17.454102"
+       x2="53.591797"
+       y2="45.454102"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <circle
+     style="fill:#d50000;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6.35, 0.529167"
+     id="path1179"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="7.4083333" />
+  <path
+     id="path6439"
+     style="font-weight:500;font-size:13.7446px;line-height:1.25;font-family:'Google Sans';-inkscape-font-specification:'Google Sans Medium';opacity:0.2;stroke-width:1.08225;fill-opacity:1;fill:url(#linearGradient7433)"
+     d="m 29.091797,12 v 11.273438 l 0.570312,13.818359 6,6 -4.533203,-1.441406 C 30.385111,41.80161 29.721671,42.147248 29.142578,42.701172 28.380701,43.462747 28,44.397324 28,45.505859 c 0,1.108158 0.380701,2.061076 1.142578,2.857422 L 39.6875,58.908203 C 50.045268,55.945972 57.784971,47.304025 59.591797,36.683594 L 34.908203,12 Z"
+     transform="scale(0.26458333)"
+     sodipodi:nodetypes="ccccccsccccc" />
+  <path
+     d="M 7.6969699,6.1575778 V 3.1749995 h 1.539395 v 2.9825783 l -0.151191,3.6560636 h -1.237014 z m 0.769697,6.9410232 q -0.439827,0 -0.755952,-0.302381 -0.302382,-0.316126 -0.302382,-0.755953 0,-0.439828 0.302382,-0.742209 0.316125,-0.302381 0.755952,-0.302381 0.439828,0 0.742209,0.302381 0.316126,0.302381 0.316126,0.742209 0,0.439827 -0.316126,0.755953 -0.302381,0.302381 -0.742209,0.302381 z"
+     style="font-weight:500;font-size:13.7446px;line-height:1.25;font-family:'Google Sans';-inkscape-font-specification:'Google Sans Medium';stroke-width:0.286345;fill:#ffffff"
+     id="path6328-3" />
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="org.kde.ksudoku.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     showguides="true"
+     inkscape:zoom="9.7258198"
+     inkscape:cx="6.7860603"
+     inkscape:cy="27.709746"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="레이어 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path866"
+       style="fill:#e3dedb;stroke-width:0.231098"
+       d="M 15.875001,8.4666667 A 7.4083333,7.4083333 0 0 1 8.4666666,15.875 7.4083333,7.4083333 0 0 1 1.0583333,8.4666667 7.4083333,7.4083333 0 0 1 8.4666666,1.0583333 7.4083333,7.4083333 0 0 1 15.875001,8.4666667 Z" />
+    <rect
+       style="opacity:1;fill:#483e37;stroke-width:0.151043"
+       id="rect988"
+       width="10.583333"
+       height="0.5291667"
+       x="3.175"
+       y="6.0854168" />
+    <rect
+       style="fill:#483e37;stroke-width:0.151043"
+       id="rect988-3"
+       width="10.583333"
+       height="0.5291667"
+       x="3.1750002"
+       y="10.318748" />
+    <rect
+       style="fill:#483e37;stroke-width:0.151043"
+       id="rect988-6"
+       width="0.5291667"
+       height="10.583333"
+       x="6.0854168"
+       y="3.175" />
+    <rect
+       style="fill:#483e37;stroke-width:0.151043"
+       id="rect988-3-7"
+       width="0.5291667"
+       height="10.583333"
+       x="10.31875"
+       y="3.175" />
+  </g>
+</svg>
