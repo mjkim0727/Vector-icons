@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="QtIcon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="12.265625"
+     inkscape:cx="31.959236"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2" />
+  <circle
+     style="opacity:1;fill:#00cc5c;fill-opacity:1;stroke-width:3.92191;stroke-linecap:round;stroke-linejoin:round"
+     id="path850"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="7.4083333" />
+  <path
+     id="path8"
+     d="M 10.583333,4.4979166 V 6.0854165 H 9.5249998 v 1.0583334 h 1.0583332 v 2.1786786 c 0,1.4941185 0.528743,2.0546555 1.477945,2.0546555 h 1.167888 V 10.31875 H 12.1791 c -0.510532,0 -0.537434,-0.3546813 -0.537434,-1.1017415 V 7.1437499 h 1.5875 V 6.0854165 h -1.5875 V 4.4979166 Z m -4.219897,0.011361 c -2.101026,1e-7 -2.6592694,1.1870383 -2.6592694,3.4282147 0,2.2411777 0.5484234,3.4540537 2.6592694,3.4540537 h 0.5994463 l 0.873332,1.493455 1.0118241,-0.373103 -0.8247559,-1.494483 c 0.7854302,-0.373528 0.9725507,-1.5857977 0.9725507,-3.0799152 0,-2.2411762 -0.5313711,-3.4282144 -2.6323972,-3.4282147 z m -0.0093,1.0469647 c 1.2816448,0 1.5833694,0.9297403 1.5833662,2.4628987 0,1.5331575 -0.2920101,2.299601 -1.5833662,2.299601 -1.291355,0 -1.5916338,-0.7664435 -1.5916338,-2.299601 0,-1.5331584 0.3099903,-2.4628987 1.5916338,-2.4628987 z"
+     style="fill:#ffffff;stroke-width:0.529166" />
+</svg>

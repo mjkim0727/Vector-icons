@@ -6,7 +6,7 @@
    version="1.0"
    id="svg61"
    sodipodi:docname="gnome-mines.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,8 +26,8 @@
      inkscape:cy="33.654477"
      inkscape:window-width="1525"
      inkscape:window-height="754"
-     inkscape:window-x="308"
-     inkscape:window-y="343"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg61" />
   <defs
@@ -44,12 +44,6 @@
          id="feGaussianBlur2" />
     </filter>
   </defs>
-  <circle
-     style="opacity:0.2"
-     cx="32"
-     cy="33.000004"
-     r="28"
-     id="circle2" />
   <circle
      style="fill:#deddda;fill-opacity:1"
      cx="32"
@@ -76,10 +70,6 @@
      id="path15588"
      style="color:#000000;fill:#deddda;stroke-width:0.51921;-inkscape-stroke:none"
      d="M 31.999998,4 A 28.000001,28.000001 0 0 0 30.921873,4.1054688 V 59.894531 A 28.000001,28.000001 0 0 0 31.999998,60 28.000001,28.000001 0 0 0 33.078123,59.894531 V 4.0371094 A 28.000001,28.000001 0 0 0 31.999998,4 Z" />
-  <path
-     style="opacity:0.2;fill:#ffffff"
-     d="M 32,4 A 28,28 0 0 0 4,32 28,28 0 0 0 4.0215,32.58594 28,28 0 0 1 32.00002,5 28,28 0 0 1 59.97853,32.41406 28,28 0 0 0 60.00003,32 a 28,28 0 0 0 -28,-28 z"
-     id="path16-3" />
   <path
      d="m 16.000001,12.000002 v 14 h 1.76995 v -5.307697 l 7.720404,-3.78622 z"
      fill="#2dc0af"
