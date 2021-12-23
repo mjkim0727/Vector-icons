@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="multimedia-video-player.svg.2021_12_23_19_16_45.0.svg"
+   sodipodi:docname="parole.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,7 +27,7 @@
      units="px"
      height="64px"
      inkscape:zoom="7.9999996"
-     inkscape:cx="30.250001"
+     inkscape:cx="30.250002"
      inkscape:cy="35.687502"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
@@ -57,7 +57,8 @@
        y1="31.08252"
        x2="47.22998"
        y2="44.525879"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458334,0,0,0.26458334,0,-1.0583333)" />
   </defs>
   <circle
      style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
@@ -67,9 +68,8 @@
      r="7.4083333" />
   <path
      id="path1989"
-     style="opacity:0.2;fill:url(#linearGradient1192);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
-     d="M 29 30 L 24 42 L 47.283203 55.443359 A 28 28 0 0 0 58.341797 41.435547 L 42 32 L 29 30 z "
-     transform="scale(0.26458334)" />
+     style="opacity:0.2;fill:url(#linearGradient1192);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="m 7.6729169,6.8791668 -1.3229167,3.1750002 6.1603478,3.556888 a 7.4083335,7.4083335 0 0 0 2.92592,-3.7062327 L 11.1125,7.4083335 Z" />
   <path
      id="path5779"
      style="opacity:1;fill:#ececec;fill-opacity:1;stroke-width:2.00316;stroke-linecap:round;stroke-linejoin:round"
@@ -87,6 +87,6 @@
   <path
      id="rect7216"
      style="opacity:1;fill:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
-     d="M 6.3499999,5.8208332 11.1125,8.4666666 6.3499999,11.1125 Z"
+     d="M 6.3499999,4.7624998 11.1125,7.4083332 6.3499999,10.054166 Z"
      sodipodi:nodetypes="cccc" />
 </svg>
