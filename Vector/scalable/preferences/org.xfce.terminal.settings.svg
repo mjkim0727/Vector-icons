@@ -5,7 +5,7 @@
    enable-background="new"
    version="1.0"
    id="svg28"
-   sodipodi:docname="preferences-system-network.svg"
+   sodipodi:docname="org.xfce.terminal.settings.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="42"
-     inkscape:cy="28.5"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-13.258252"
+     inkscape:cy="43.752232"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -55,13 +55,20 @@
     </filter>
   </defs>
   <circle
-     style="fill:#3f51b5;fill-opacity:1;stroke-width:1.41633;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:16.996, 1.41633"
+     style="fill:#666666;fill-opacity:1;stroke-width:1.41633;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:16.996, 1.41633"
      id="path848"
      cx="32"
      cy="32"
      r="28" />
   <path
-     id="path850"
-     style="opacity:1;fill:#ffffff;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round"
-     d="M 32 14 A 18 18 0 0 0 14 32 A 18 18 0 0 0 32 50 A 18 18 0 0 0 50 32 A 18 18 0 0 0 32 14 z M 37.869141 18.201172 A 15 15 0 0 1 47 32 A 15 15 0 0 1 41.927734 43.185547 C 41.539902 40.806921 39.491612 39 37 39 L 36.957031 39 L 37 34 C 37 32.892 36.108 32 35 32 L 25 32 L 25 29 L 29 29 C 30.108 29 31 28.108 31 27 L 31 23 L 32 23 C 34.91093 23 37.315079 20.943911 37.869141 18.201172 z M 17.275391 29.275391 L 26.244141 38.244141 C 26.086292 38.644205 26.003529 39.069936 26 39.5 C 25.999631 41.24013 27.277717 42.716254 29 42.964844 L 29 44 L 29 46.658203 A 15 15 0 0 1 17 32 A 15 15 0 0 1 17.275391 29.275391 z " />
+     id="rect902"
+     style="opacity:1;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 19.738281,20 -2.121093,2.121094 9.898437,9.898438 -9.898437,9.90039 2.121093,2.121094 9.900391,-9.898438 2.121094,-2.123046 -2.121094,-2.121094 z" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect1078"
+     width="16"
+     height="3"
+     x="31"
+     y="40.777344" />
 </svg>
