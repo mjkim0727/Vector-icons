@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper>
+     <name>Vector 1</name>
+     <name xml:lang="en_AU">Vector 1</name>
+     <name xml:lang="en_GB">Vector 1</name>
+     <name xml:lang="ko">벡터 1</name>
+     <filename>/usr/share/backgrounds/Vector/vector-wallpaper-1.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Vector 2</name>
+     <name xml:lang="en_AU">Vector 2</name>
+     <name xml:lang="en_GB">Vector 2</name>
+     <name xml:lang="ko">벡터 2</name>
+     <filename>/usr/share/backgrounds/Vector/vector-wallpaper-2.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Vector 3</name>
+     <name xml:lang="en_AU">Vector 3</name>
+     <name xml:lang="en_GB">Vector 3</name>
+     <name xml:lang="ko">벡터 3</name>
+     <filename>/usr/share/backgrounds/Vector/vector-wallpaper-3.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Vector 4</name>
+     <name xml:lang="en_AU">Vector 4</name>
+     <name xml:lang="en_GB">Vector 4</name>
+     <name xml:lang="ko">벡터 4</name>
+     <filename>/usr/share/backgrounds/Vector/vector-wallpaper-4.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>
