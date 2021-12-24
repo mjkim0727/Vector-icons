@@ -143,7 +143,7 @@ Type=Scalable
 [scalable/apps]
 Context=Applications
 Size=512
-MinSize=16
+MinSize=32
 MaxSize=512
 Type=Scalable
 
@@ -170,8 +170,8 @@ Type=Scalable
 
 [scalable/places]
 Context=Places
-Size=512
-MinSize=22
+Size=64
+MinSize=32
 MaxSize=512
 Type=Scalable
 
@@ -393,14 +393,6 @@ Type=Scalable
 Context=Devices
 Scale=2
 Size=512
-MinSize=22
-MaxSize=512
-Type=Scalable
-
-[scalable@2x/places]
-Context=Places
-Scale=2
-Size=64
 MinSize=22
 MaxSize=512
 Type=Scalable
