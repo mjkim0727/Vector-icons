@@ -5,7 +5,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="media-playback-pause-symbolic.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,18 +21,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="25.78125"
-     inkscape:cx="8.32"
-     inkscape:cy="11.772121"
-     inkscape:window-width="1853"
-     inkscape:window-height="1012"
-     inkscape:window-x="67"
-     inkscape:window-y="32"
+     inkscape:zoom="1"
+     inkscape:cx="8"
+     inkscape:cy="9"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
   <path
-     id="path2"
-     style="fill:#444444"
-     d="M 3,2 V 14 H 7 V 2 Z m 6,0 v 12 h 4 V 2 Z M 4.5,3.5 h 1 v 9 h -1 z m 6,0 h 1 v 9 h -1 z"
-     sodipodi:nodetypes="cccccccccccccccccccc" />
+     id="rect862"
+     style="fill:#444444;fill-opacity:1;stroke-width:2.10819;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3,3 V 13 H 6 V 3 Z m 7,0 v 10 h 3 V 3 Z"
+     sodipodi:nodetypes="cccccccccc" />
 </svg>

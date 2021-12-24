@@ -26,11 +26,11 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="1"
-     inkscape:cx="21"
-     inkscape:cy="57.5"
+     inkscape:zoom="4"
+     inkscape:cx="22.25"
+     inkscape:cy="-26.875"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -78,7 +78,7 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <circle
-     style="fill:#4285f4;fill-opacity:1;stroke-width:0.576115;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6.91338, 0.576115"
+     style="fill:#34be5b;fill-opacity:1;stroke-width:0.576115;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6.91338, 0.576115"
      id="path911"
      cx="8.4666662"
      cy="8.4666672"
@@ -107,11 +107,11 @@
      y="3.4395833" />
   <path
      id="rect1056"
-     style="fill:#d0e3fa;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     style="fill:#ccf2d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      d="M 17.414062 25.84375 L 13.878906 29.378906 L 11.757812 31.5 L 13.878906 33.621094 L 17.414062 37.15625 L 19.535156 35.035156 L 17.5 33 L 26 33 L 26 30 L 17.5 30 L 19.535156 27.964844 L 17.414062 25.84375 z "
      transform="scale(0.26458334)" />
   <path
      id="rect1056-5"
-     style="fill:#d0e3fa;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     style="fill:#ccf2d8;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      d="m 12.325862,6.8378257 0.935344,0.9353434 0.561206,0.5612061 -0.561206,0.5612061 -0.935344,0.9353434 -0.561206,-0.5612061 0.538469,-0.5384684 h -2.248959 v -0.79375 h 2.248959 L 11.764656,7.3990318 Z" />
 </svg>
