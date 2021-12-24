@@ -1,5 +1,9 @@
-# Pixel-icons
+# Vector-icons
 
 ![logo](logo.png)
 
-Google Pixel Style Icons for Linux
+Google Pixel & Chrome OS Style Icons for Linux
+
+# Based on
+
+Vimix-icon-theme (https://github.com/vinceliuice/vimix-icon-theme)
