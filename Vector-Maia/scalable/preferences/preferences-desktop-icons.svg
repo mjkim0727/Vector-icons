@@ -20,11 +20,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="44.75"
-     inkscape:cy="43.3125"
+     inkscape:zoom="11.313708"
+     inkscape:cx="40.039921"
+     inkscape:cy="32.173359"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -48,20 +48,20 @@
      cy="32"
      r="28"
      enable-background="new"
-     fill="#607d8b"
      id="circle37"
      style="stroke-width:0.116666;fill:#ff768b;fill-opacity:1" />
   <path
      id="rect945"
      style="fill:#ffffff;stroke-width:3.13786;stroke-linecap:round;stroke-linejoin:round"
-     d="M 16 41 L 16 47 L 48 47 L 48 41 L 16 41 z M 18 43 L 20 43 L 20 45 L 18 45 L 18 43 z M 40 43 L 46 43 L 46 45 L 40 45 L 40 43 z " />
+     d="M 18 41 A 2 2 0 0 0 16 43 L 16 45 A 2 2 0 0 0 18 47 L 46 47 A 2 2 0 0 0 48 45 L 48 43 A 2 2 0 0 0 46 41 L 18 41 z M 18 43 L 20 43 L 20 45 L 18 45 L 18 43 z M 40 43 L 46 43 L 46 45 L 40 45 L 40 43 z " />
   <rect
      style="fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
      id="rect1332"
      width="6"
      height="6"
      x="16"
-     y="29" />
+     y="29"
+     ry="1" />
   <rect
      style="fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
      id="rect1436"

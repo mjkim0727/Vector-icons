@@ -5,7 +5,7 @@
    enable-background="new"
    version="1.0"
    id="svg47"
-   sodipodi:docname="preferences-desktop-default-applications.svg"
+   sodipodi:docname="preferences-ubuntu-panel.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,11 +20,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="33"
-     inkscape:cy="35.5"
+     inkscape:zoom="4.3365533"
+     inkscape:cx="17.294841"
+     inkscape:cy="50.270338"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,9 +49,9 @@
      r="28"
      enable-background="new"
      id="circle37"
-     style="fill:#607d8b;stroke-width:0.116666" />
+     style="stroke-width:0.116666;fill:#843e64;fill-opacity:1" />
   <path
-     id="path41"
-     style="text-indent:0;text-decoration-line:none;text-transform:none;stroke-width:0.106249;fill:#ffffff"
-     d="M 32 15 L 27.498047 26.677734 L 15 27.351562 L 24.714844 35.242188 L 21.494141 47.335938 L 32 40.535156 L 42.505859 47.335938 L 39.285156 35.242188 L 49 27.351562 L 36.501953 26.677734 L 32 15 z M 32 22 L 34.904297 29.582031 L 41.443359 29.892578 L 36.388672 33.992188 L 38.347656 41.380859 L 32 37.535156 L 25.652344 41.380859 L 27.611328 33.992188 L 22.556641 29.892578 L 29.095703 29.582031 L 32 22 z " />
+     id="rect1220"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 18 19 C 16.892 19 16 19.892 16 21 L 16 44 C 16 45.108 16.892 46 18 46 L 46 46 C 47.108 46 48 45.108 48 44 L 48 21 C 48 19.892 47.108 19 46 19 L 18 19 z M 19 22 L 24 22 L 24 27 L 19 27 L 19 22 z M 27 22 L 45 22 L 45 43 L 27 43 L 27 22 z M 19 30 L 24 30 L 24 35 L 19 35 L 19 30 z M 19 38 L 24 38 L 24 43 L 19 43 L 19 38 z " />
 </svg>
