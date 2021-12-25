@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg828"
+   sodipodi:docname="wine.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview830"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="7.9999999"
+     inkscape:cx="26.25"
+     inkscape:cy="26.375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg828" />
+  <defs
+     id="defs825" />
+  <circle
+     style="fill:#1a99fc;fill-opacity:1;stroke-width:0.576115;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6.91338, 0.576115"
+     id="path911"
+     cx="8.4666662"
+     cy="8.4666672"
+     r="7.4083333" />
+  <path
+     id="rect2455"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.30256;stroke-linecap:round;stroke-linejoin:round"
+     d="m 4.2333334,4.2333334 v 3.96875 h 3.96875 v -3.96875 z m 4.4979167,0 v 3.96875 H 12.7 v -3.96875 z M 4.2333334,8.7312501 v 3.9687469 h 3.96875 V 8.7312501 Z m 4.4979167,0 V 12.699997 H 12.7 V 8.7312501 Z"
+     sodipodi:nodetypes="cccccccccccccccccccc" />
+</svg>
