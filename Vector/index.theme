@@ -147,8 +147,8 @@ Type=Scalable
 
 [scalable/apps]
 Context=Applications
-Size=512
-MinSize=32
+Size=64
+MinSize=22
 MaxSize=512
 Type=Scalable
 
@@ -387,8 +387,8 @@ Type=Fixed
 [scalable@2x/apps]
 Context=Applications
 Scale=2
-Size=512
-MinSize=16
+Size=64
+MinSize=22
 MaxSize=512
 Type=Scalable
 
