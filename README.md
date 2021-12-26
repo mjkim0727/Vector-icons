@@ -22,18 +22,16 @@ Google Pixel & Chrome OS Style Icons for Linux
 
 ## Sample
 
-* GNOME(4x Shell)
+* GNOME
 ![Sample Screenshot 1](screenshots/screenshot-gnome.png)
 
-* GNOME(3.3x Shell)
-
-![Sample Screenshot 2](screenshots/screenshot-gnome33x.png)
-
 * Cinnamon
-![Sample Screenshot 3](screenshots/screenshot-cinnamon.png)
+![Sample Screenshot 2](screenshots/screenshot-cinnamon.png)
 
 * KDE
 
 * Xfce
+
+![Sample Screenshot 4](screenshots/screenshot-xfce.png)
 
 * MATE
