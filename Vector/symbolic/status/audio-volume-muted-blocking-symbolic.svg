@@ -1,4 +1,39 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path class="warning" d="m10 1v1.5c2.32 0.74 4 2.93 4 5.5s-1.68 4.76-4 5.5v1.5c3.15-0.78 5.5-3.6 5.5-7s-2.35-6.22-5.5-7zm0 4v6c1.1008-0.5968 1.7872-1.7478 1.789-3 0-1.3-0.719-2.42-1.789-3z" fill="#f57900"/>
- <path class="warning" d="m8 1-4 4h-3v6h3l4 4v-11.172zm-2 4.8281v4.3418l-1-0.99805-0.16992-0.17188h-1.8301v-2h1.8301l0.16992-0.17188z" fill="#f57900"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="audio-volume-muted-blocking-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="44.3125"
+     inkscape:cx="7.9887165"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     id="path2"
+     class="warning"
+     d="m 3,1 -1.4140625,1.4140625 2.5,2.5 L 4,5 H 1 v 6 h 3 l 4,4 V 8.828125 l 2,2 V 11 c 0.03697,-0.02004 0.07142,-0.04317 0.107422,-0.06445 l 1.644531,1.644531 C 11.23135,12.982664 10.639851,13.29591 10,13.5 V 15 c 1.03566,-0.256449 1.983479,-0.734992 2.791016,-1.380859 L 13.585938,14.414062 15,13 Z M 8,1 6.9140625,2.0859375 8,3.171875 Z m 2,0 v 1.5 c 2.32,0.74 4,2.93 4,5.5 0,0.3660063 -0.03642,0.7228111 -0.101562,1.0703125 L 15.125,10.296875 C 15.367804,9.5764036 15.5,8.804838 15.5,8 15.5,4.6 13.15,1.78 10,1 Z m 0,4 v 0.171875 l 1.535156,1.5351562 C 11.236318,5.9774951 10.692066,5.3751387 10,5 Z m -4.5,1.328125 0.5,0.5 v 3.341797 L 5,9.171875 4.8300781,9 H 4.828125 3 V 7 h 1.828125 0.00195 L 5,6.828125 Z"
+     sodipodi:nodetypes="cccccccccccccccccccccccccsccsccccccccccccccccc"
+     style="fill:#f57900;fill-opacity:1" />
 </svg>
