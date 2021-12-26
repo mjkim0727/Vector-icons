@@ -43,6 +43,11 @@ Context=Devices
 Size=16
 Type=Fixed
 
+[16/apps]
+Context=Applications
+Size=16
+Type=Fixed
+
 [16/mimetypes]
 Context=MimeTypes
 Size=16
@@ -170,14 +175,14 @@ Type=Scalable
 
 [scalable/places]
 Context=Places
-Size=512
-MinSize=22
+Size=64
+MinSize=32
 MaxSize=512
 Type=Scalable
 
 [scalable/preferences]
 Context=Applications
-Size=512
+Size=64
 MinSize=16
 MaxSize=512
 Type=Scalable
@@ -256,6 +261,12 @@ Type=Scalable
 # 16x16@2x
 [16@2x/actions]
 Context=Actions
+Scale=2
+Size=16
+Type=Fixed
+
+[16@2x/apps]
+Context=Applications
 Scale=2
 Size=16
 Type=Fixed

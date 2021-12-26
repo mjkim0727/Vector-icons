@@ -38,6 +38,11 @@ Context=Actions
 Size=16
 Type=Fixed
 
+[16/apps]
+Context=Applications
+Size=16
+Type=Fixed
+
 [16/devices]
 Context=Devices
 Size=16
@@ -256,6 +261,12 @@ Type=Scalable
 # 16x16@2x
 [16@2x/actions]
 Context=Actions
+Scale=2
+Size=16
+Type=Fixed
+
+[16@2x/apps]
+Context=Applications
 Scale=2
 Size=16
 Type=Fixed

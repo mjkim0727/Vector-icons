@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   enable-background="new"
+   version="1.0"
+   id="svg47"
+   sodipodi:docname="preferences-desktop-tablet.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview49"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="27"
+     inkscape:cy="31.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg47" />
+  <defs
+     id="defs5">
+    <filter
+       id="a"
+       x="-0.032333333"
+       y="-0.032333333"
+       width="1.0646667"
+       height="1.0646667"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="4.8"
+         id="feGaussianBlur2" />
+    </filter>
+  </defs>
+  <circle
+     cx="32"
+     cy="32"
+     r="28"
+     enable-background="new"
+     id="circle37"
+     style="stroke-width:0.116666;fill:#26a69a;fill-opacity:1" />
+  <path
+     id="rect1220"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 18,20 c -1.108,0 -2,0.892 -2,2 v 20 c 0,1.108 0.892,2 2,2 h 8.246094 L 26.861328,42.728516 28.546875,41 H 19 V 23 h 26 l 2.46875,-2.353516 C 47.104131,20.250328 46.583591,20 46,20 Z m 30,14.273438 -3,3 V 41 h -3.726562 l -3,3 H 46 c 1.108,0 2,-0.892 2,-2 z"
+     sodipodi:nodetypes="sssscccccccsscccccssc" />
+  <path
+     id="rect1327"
+     style="fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 51.909902,26.12132 49.788582,24 31.06066,42.727922 30,45.909902 l 3.18198,-1.06066 z"
+     sodipodi:nodetypes="cccccc" />
+</svg>
