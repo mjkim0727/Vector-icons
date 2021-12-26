@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="system-hibernate.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="7.9999999"
+     inkscape:cx="22.875"
+     inkscape:cy="44.6875"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true" />
+  <defs
+     id="defs2" />
+  <circle
+     style="fill:#6a1b9a;fill-opacity:1;stroke-width:0.566797;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6.80157, 0.566797"
+     id="path890"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="7.4083333" />
+  <path
+     d="M 3.96875,11.552931 7.4976007,6.5613434 H 4.1150236 V 5.8208333 H 8.3935265 V 6.6344802 L 4.8646758,11.626068 h 3.5654191 v 0.74051 H 3.96875 Z"
+     style="font-size:9.1421px;line-height:1.25;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';stroke-width:0.228553;fill:#ffffff"
+     id="path10397" />
+  <path
+     d="M 9.188894,7.9950372 11.940667,4.7038808 H 9.2711729 V 3.9999391 h 3.6202721 v 0.6673733 l -2.760914,3.2911558 h 2.834051 V 8.6624099 H 9.188894 Z"
+     style="font-size:9.1421px;line-height:1.25;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';stroke-width:0.228553;fill:#ffffff"
+     id="path10399" />
+</svg>
