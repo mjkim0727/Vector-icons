@@ -29,9 +29,7 @@ Google Pixel & Chrome OS Style Icons for Linux
 ![Sample Screenshot 2](screenshots/screenshot-cinnamon.png)
 
 * KDE
-
 ![Sample Screenshot 3](screenshots/screenshot-kde.png)
 
 * Xfce
-
 ![Sample Screenshot 4](screenshots/screenshot-xfce.png)
